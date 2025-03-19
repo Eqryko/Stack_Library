@@ -1,0 +1,14 @@
+C:\Users\enric\source\repos\EsLibrerie\EsLibrerie\bin\Debug\net8.0\EsLibrerie.exe
+C:\Users\enric\source\repos\EsLibrerie\EsLibrerie\bin\Debug\net8.0\EsLibrerie.deps.json
+C:\Users\enric\source\repos\EsLibrerie\EsLibrerie\bin\Debug\net8.0\EsLibrerie.runtimeconfig.json
+C:\Users\enric\source\repos\EsLibrerie\EsLibrerie\bin\Debug\net8.0\EsLibrerie.dll
+C:\Users\enric\source\repos\EsLibrerie\EsLibrerie\bin\Debug\net8.0\EsLibrerie.pdb
+C:\Users\enric\source\repos\EsLibrerie\EsLibrerie\obj\Debug\net8.0\EsLibrerie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enric\source\repos\EsLibrerie\EsLibrerie\obj\Debug\net8.0\EsLibrerie.AssemblyInfoInputs.cache
+C:\Users\enric\source\repos\EsLibrerie\EsLibrerie\obj\Debug\net8.0\EsLibrerie.AssemblyInfo.cs
+C:\Users\enric\source\repos\EsLibrerie\EsLibrerie\obj\Debug\net8.0\EsLibrerie.csproj.CoreCompileInputs.cache
+C:\Users\enric\source\repos\EsLibrerie\EsLibrerie\obj\Debug\net8.0\EsLibrerie.dll
+C:\Users\enric\source\repos\EsLibrerie\EsLibrerie\obj\Debug\net8.0\refint\EsLibrerie.dll
+C:\Users\enric\source\repos\EsLibrerie\EsLibrerie\obj\Debug\net8.0\EsLibrerie.pdb
+C:\Users\enric\source\repos\EsLibrerie\EsLibrerie\obj\Debug\net8.0\EsLibrerie.genruntimeconfig.cache
+C:\Users\enric\source\repos\EsLibrerie\EsLibrerie\obj\Debug\net8.0\ref\EsLibrerie.dll
